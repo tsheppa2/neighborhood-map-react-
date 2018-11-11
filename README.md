@@ -22,7 +22,8 @@ Google Maps API utilized to generate the map. The Foursquare API is used to get 
 ## Tools
 
 https://github.com/facebook/create-react-app
-https://www.flaticon.com/https://www.npmjs.com/package/react-async-script-loader
+https://www.flaticon.com
+https://www.npmjs.com/package/react-async-script-loader
 
 
 ## Neighborhood-Map-Dependencies 
